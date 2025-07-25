@@ -4,8 +4,8 @@
 DigiTech Solutions Africa is a full-featured MERN Stack platform designed to help creators across Africa launch, sell, and grow their digital businesses. It includes an all-in-one system for selling digital products, hosting online courses, publishing content, growing email lists, and tracking success — all through a beautifully crafted, mobile-friendly web app.
 
 # Getting Started with Create React App- THIS IS MY FINAL PRODUCT. Due to constraints and challenges I am facing, I will be finishing the project in the next week. Here is a demo of what I want to achieve in this project. 
-
-https://preview--bloom-teach-pay.lovable.app/- I created this website using lovable AI. I will be finishing the real MERN stack in due course. My Apologies.
+[
+https://preview--bloom-teach-pay.lovable.app/](https://preview--bloom-teach-pay.lovable.app/)- I created this website using lovable AI. I will be finishing the real MERN stack in due course. My Apologies.
 
 
 ---
